@@ -1,0 +1,7 @@
+git remote add 
+git branch test
+git checkout test
+git pull
+git add .
+git commit -m "сообщение"
+git push origin test
